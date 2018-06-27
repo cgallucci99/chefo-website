@@ -1,0 +1,133 @@
+.navbar {
+	background: #00A4CE;
+	font-family: 'Bevan', cursive;
+}
+.navbar-fixed-top{
+	border-color:#adc4ea;
+}
+.navbar-default .navbar-brand {
+	color: #FFF7BC;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #FFF7BC;
+}
+body{
+	padding-top: 70px;
+	background: #FFF7BC;
+}
+#hours-table{
+	font-size: 2.3em;
+}
+#pageheader{
+	text-align: center;
+	color:#00A4CE;
+}
+body{
+	font-family: 'Raleway';
+}
+h1{
+	font-family: 'Bevan', cursive;
+}
+#about, #menu, #drive-thru, #location, #hours{
+	padding-top: 20px;
+}
+.panel, .jumbotron{
+	background: #00A4CE;
+	color:#FFF7BC;
+}
+#drvthru, #mnu {
+	background: #00A4CE;
+	border:none;
+}
+#footer{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+h4{
+	font-size: 2.5em;
+}
+h6{
+	font-size: 2em;
+}
+h3{
+	font-size: 2.5em;
+	color:#00A4CE;
+}
+hr{
+	width: 70%;
+}
+tr:nth-of-type(even){
+	background-color: #6ED6F4;
+}
+#thbnl{
+	background: #FFF7BC
+}
+
+/* chefo letters color: #00A4CE
+	chefo border color: #FFF7BC
+	original color of navbar: #b2cfff
+	original navbar letter color: #647ea8*/
+
+/*ORIGINAL STYLING*/
+
+/*.navbar {
+	background: #b2cfff;
+	font-family: 'Bevan', cursive;
+}
+.navbar-fixed-top{
+	border-color:#adc4ea;
+}
+.navbar-default .navbar-brand {
+	color: #647ea8;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #647ea8;
+}
+body{
+	padding-top: 70px;
+	background: #00A4CE;
+}
+#hours-table{
+	font-size: 2.3em;
+}
+#pageheader{
+	text-align: center;
+	color:#e2f6ff;
+}
+body{
+	font-family: 'Raleway';
+}
+h1{
+	font-family: 'Bevan', cursive;
+}
+#about, #menu, #drive-thru, #location, #hours{
+	padding-top: 20px;
+}
+.panel, .jumbotron{
+	background: #b2cfff;
+}
+#drvthru {
+	background: #b2cfff;
+	border:none;
+}
+#footer{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+h4{
+	font-size: 2.5em;
+}
+h3{
+	color:#c9ecff;
+}
+h6{
+	font-size: 2em;
+}
+hr{
+	width: 70%;
+}
+tr:nth-of-type(even){
+	background-color: #adc4ea;
+}*/
